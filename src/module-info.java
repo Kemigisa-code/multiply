@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author AeDukan
+ *
+ */
+module multiply {
+}
